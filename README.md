@@ -72,4 +72,4 @@ Anju Davis
 
 ### Top Customers
 
-![Top Customers](screenshots/top_customers.png)
+![Top Customers](screenshots/top_customer.png)
