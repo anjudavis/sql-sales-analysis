@@ -1,64 +1,61 @@
 # SQL Sales Analysis Project
 
-## Project Overview
+## Overview
 
-This project analyzes retail sales data using PostgreSQL and SQL to identify sales trends, customer behavior, regional performance, and profitability patterns.
+Analyzed retail sales data using PostgreSQL and SQL to identify sales trends, profitability patterns, customer behavior, and regional performance.
 
 ## Tools Used
 
 * PostgreSQL
-* pgAdmin 4
 * SQL
+* pgAdmin 4
 
 ## Dataset
 
 Sample Superstore Dataset
 
-## Analysis Performed
+## Business Questions Answered
 
-### 1. Category Performance
-
-* Total Sales by Category
-* Total Profit by Category
-
-### 2. Regional Performance
-
-* Sales by Region
-* Profit by Region
-
-### 3. Customer Analysis
-
-* Top 10 Customers by Sales
-
-### 4. Product Analysis
-
-* Top Selling Products
-
-### 5. Profitability Analysis
-
-* Profit by Sub-Category
-* Discount Impact on Profit
+1. Which category generates the highest revenue?
+2. Which category generates the highest profit?
+3. Which customers contribute the most revenue?
+4. Which products perform best?
+5. How does profitability vary across categories and regions?
 
 ## Key Findings
 
-* Technology generated the highest sales revenue and profit.
-* Furniture generated strong sales but comparatively low profit.
-* Office Supplies maintained strong profitability.
-* Customer and product sales were concentrated among top performers.
-* Regional differences indicate opportunities for targeted strategies.
+### Category Analysis
 
-## Repository Structure
+* Technology generated the highest revenue.
+* Technology generated the highest profit.
+* Furniture produced high sales but comparatively low profit.
 
-* queries.sql
-* insights.md
-* screenshots/
+### Customer Analysis
+
+* Revenue is concentrated among a small number of high-value customers.
+
+### Profitability Analysis
+
+* Office Supplies demonstrated strong profitability.
+* Discounting may affect profit margins.
 
 ## Skills Demonstrated
 
 * SQL Querying
+* Data Cleaning
 * Data Aggregation
 * Business Analysis
 * KPI Reporting
-* Data Exploration
-* Trend Analysis
-* Reporting & Documentation
+* Data Validation
+* Insight Generation
+
+## Project Structure
+
+* README.md
+* queries.sql
+* insights.md
+* screenshots/
+
+## Author
+
+Anju Davis
