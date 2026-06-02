@@ -59,3 +59,17 @@ Sample Superstore Dataset
 ## Author
 
 Anju Davis
+
+## Sample Outputs
+
+### Category Analysis
+
+![Category Analysis](screenshots/category_analysis.png)
+
+### Region Analysis
+
+![Region Analysis](screenshots/region_analysis.png)
+
+### Top Customers
+
+![Top Customers](screenshots/top_customers.png)
